@@ -1,6 +1,8 @@
 ---
-title: Welcome to My Personal Homepage
+title: I'm Gihan Jayawardhana
 ---
+
+![Your Profile Picture](images/profile.jpg)
 
 Hello! I'm glad you're here. This is my personal space on the web where I share my projects, skills, and ways to get in touch with me.
 
