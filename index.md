@@ -1,8 +1,12 @@
-# Gihan Jayawardhana
+---
+title: Gihan Jayawardhana
+---
 
 ![Your Profile Picture](/Images/ProfilePicture.jpg)
 
-Hello! I'm glad you're here. This is my personal space on the web where I share my projects, skills, and ways to get in touch with me.
+Hello! I'm Gihan Jayawardhana.
+
+I'm glad you're here. This is my personal space on the web where I share my projects, skills, and ways to get in touch with me.
 
 ## About Me
 
